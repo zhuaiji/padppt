@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TamiliBox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_power_point_viewer">PowerPointViewerActivity</string>
+    <string name="title_activity_video_player">VideoPlayerActivity</string>
+    <string name="title_activity_picture_viewer">PictureViewerActivity</string>
+
+</resources>
