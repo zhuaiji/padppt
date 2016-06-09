@@ -7,6 +7,8 @@
     <string name="title_activity_power_point_viewer">PowerPointViewerActivity</string>
     <string name="title_activity_video_player">VideoPlayerActivity</string>
     <string name="title_activity_picture_viewer">PictureViewerActivity</string>
-    <string name="title_activity_pdfviewer">PDFViewerActivity</string>
-
+    <string name="explorer">Explorer</string>
+    <string name="dialog_read_from_dir">Open from dir</string>
 </resources>
+
+

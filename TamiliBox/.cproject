@@ -20,7 +20,7 @@
 					<folderInfo id="com.android.toolchain.gcc.2058702392.421418140" name="/" resourcePath="">
 						<toolChain id="com.android.toolchain.gcc.7909395" name="Android GCC" superClass="com.android.toolchain.gcc">
 							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.android.targetPlatform.1758450102" isAbstract="false" superClass="com.android.targetPlatform"/>
-							<builder id="com.android.builder.1882686108" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Android Builder" superClass="com.android.builder">
+							<builder command="ndk-build" id="com.android.builder.1882686108" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Android Builder" superClass="com.android.builder">
 								<outputEntries>
 									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="obj"/>
 									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="libs"/>
@@ -48,5 +48,10 @@
 		<scannerConfigBuildInfo instanceId="com.android.toolchain.gcc.2058702392;com.android.toolchain.gcc.2058702392.421418140;com.android.gcc.compiler.2048035765;com.android.gcc.inputType.832680777">
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.android.AndroidPerProjectProfile"/>
 		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Default">
+			<resource resourceType="PROJECT" workspacePath="/TamiliBox"/>
+		</configuration>
 	</storageModule>
 </cproject>
